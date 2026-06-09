@@ -8,7 +8,6 @@ console.log(products);
       <h2 class="text-xl font-semibold">Popular Products</h2>
       <UButton variant="link" color="primary" to="/products">View All</UButton>
     </div>
-
     <div class="grid grid-cols-5 gap-8">
       <div
         v-for="product in products.slice(0, 5)"
