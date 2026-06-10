@@ -36,11 +36,12 @@ const cartCount = ref(3);
           to="/"
           class="flex items-center gap-2 font-bold text-lg shrink-0"
         >
-          <div
+          <!-- <div
             class="w-8 h-8 bg-violet-600 rounded-md flex items-center justify-center"
           >
             <UIcon name="i-lucide-zap" class="text-white w-5 h-5" />
-          </div>
+          </div> -->
+          <NuxtImg src="/icons/logo.svg" alt="Logo" class="h-8 w-auto" />
           <span>WooNuxt</span>
         </NuxtLink>
 
