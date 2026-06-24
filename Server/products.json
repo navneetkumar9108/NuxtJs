@@ -1,0 +1,1862 @@
+[
+  {
+    "id": 30001,
+    "productCode": 30001,
+    "title": "Nirvana Graphic Premium Tee 1",
+    "brand": "Nirvana",
+    "category": "Men Shirts",
+    "description": "Premium cotton casual wear product #1 with modern styling.",
+    "price": 1249,
+    "discountPrice": 937,
+    "discountPercent": 25,
+    "currency": "INR",
+    "colors": [
+      "Navy Blue",
+      "Black",
+      "Olive Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.1,
+      "count": 537,
+      "reviewCount": 109
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/1/front.jpg",
+      "/images/products/1/back.jpg",
+      "/images/products/1/side.jpg"
+    ],
+    "thumbnail": "/images/products/1/thumbnail.jpg",
+    "stock": 26,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30002,
+    "productCode": 30002,
+    "title": "NovaWear Graphic Premium Tee 2",
+    "brand": "NovaWear",
+    "category": "Men Hoodies",
+    "description": "Premium cotton casual wear product #2 with modern styling.",
+    "price": 1499,
+    "discountPrice": 1049,
+    "discountPercent": 30,
+    "currency": "INR",
+    "colors": [
+      "Maroon",
+      "White",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.2,
+      "count": 574,
+      "reviewCount": 118
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/2/front.jpg",
+      "/images/products/2/back.jpg",
+      "/images/products/2/side.jpg"
+    ],
+    "thumbnail": "/images/products/2/thumbnail.jpg",
+    "stock": 27,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30003,
+    "productCode": 30003,
+    "title": "PeakStyle Graphic Premium Tee 3",
+    "brand": "PeakStyle",
+    "category": "Men Polos",
+    "description": "Premium cotton casual wear product #3 with modern styling.",
+    "price": 1749,
+    "discountPrice": 1049,
+    "discountPercent": 40,
+    "currency": "INR",
+    "colors": [
+      "Beige",
+      "Grey",
+      "Navy Blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.3,
+      "count": 611,
+      "reviewCount": 127
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/3/front.jpg",
+      "/images/products/3/back.jpg",
+      "/images/products/3/side.jpg"
+    ],
+    "thumbnail": "/images/products/3/thumbnail.jpg",
+    "stock": 28,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30004,
+    "productCode": 30004,
+    "title": "StreetMode Graphic Premium Tee 4",
+    "brand": "StreetMode",
+    "category": "Men T-Shirts",
+    "description": "Premium cotton casual wear product #4 with modern styling.",
+    "price": 1999,
+    "discountPrice": 1000,
+    "discountPercent": 50,
+    "currency": "INR",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.4,
+      "count": 648,
+      "reviewCount": 136
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/4/front.jpg",
+      "/images/products/4/back.jpg",
+      "/images/products/4/side.jpg"
+    ],
+    "thumbnail": "/images/products/4/thumbnail.jpg",
+    "stock": 29,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30005,
+    "productCode": 30005,
+    "title": "Urban Edge Graphic Premium Tee 5",
+    "brand": "Urban Edge",
+    "category": "Men Shirts",
+    "description": "Premium cotton casual wear product #5 with modern styling.",
+    "price": 2249,
+    "discountPrice": 900,
+    "discountPercent": 60,
+    "currency": "INR",
+    "colors": [
+      "Navy Blue",
+      "Black",
+      "Olive Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.5,
+      "count": 685,
+      "reviewCount": 145
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/5/front.jpg",
+      "/images/products/5/back.jpg",
+      "/images/products/5/side.jpg"
+    ],
+    "thumbnail": "/images/products/5/thumbnail.jpg",
+    "stock": 30,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30006,
+    "productCode": 30006,
+    "title": "Nirvana Graphic Premium Tee 6",
+    "brand": "Nirvana",
+    "category": "Men Hoodies",
+    "description": "Premium cotton casual wear product #6 with modern styling.",
+    "price": 999,
+    "discountPrice": 799,
+    "discountPercent": 20,
+    "currency": "INR",
+    "colors": [
+      "Maroon",
+      "White",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.6,
+      "count": 722,
+      "reviewCount": 154
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/6/front.jpg",
+      "/images/products/6/back.jpg",
+      "/images/products/6/side.jpg"
+    ],
+    "thumbnail": "/images/products/6/thumbnail.jpg",
+    "stock": 31,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30007,
+    "productCode": 30007,
+    "title": "NovaWear Graphic Premium Tee 7",
+    "brand": "NovaWear",
+    "category": "Men Polos",
+    "description": "Premium cotton casual wear product #7 with modern styling.",
+    "price": 1249,
+    "discountPrice": 937,
+    "discountPercent": 25,
+    "currency": "INR",
+    "colors": [
+      "Beige",
+      "Grey",
+      "Navy Blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.7,
+      "count": 759,
+      "reviewCount": 163
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/7/front.jpg",
+      "/images/products/7/back.jpg",
+      "/images/products/7/side.jpg"
+    ],
+    "thumbnail": "/images/products/7/thumbnail.jpg",
+    "stock": 32,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30008,
+    "productCode": 30008,
+    "title": "PeakStyle Graphic Premium Tee 8",
+    "brand": "PeakStyle",
+    "category": "Men T-Shirts",
+    "description": "Premium cotton casual wear product #8 with modern styling.",
+    "price": 1499,
+    "discountPrice": 1049,
+    "discountPercent": 30,
+    "currency": "INR",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.0,
+      "count": 796,
+      "reviewCount": 172
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/8/front.jpg",
+      "/images/products/8/back.jpg",
+      "/images/products/8/side.jpg"
+    ],
+    "thumbnail": "/images/products/8/thumbnail.jpg",
+    "stock": 33,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30009,
+    "productCode": 30009,
+    "title": "StreetMode Graphic Premium Tee 9",
+    "brand": "StreetMode",
+    "category": "Men Shirts",
+    "description": "Premium cotton casual wear product #9 with modern styling.",
+    "price": 1749,
+    "discountPrice": 1049,
+    "discountPercent": 40,
+    "currency": "INR",
+    "colors": [
+      "Navy Blue",
+      "Black",
+      "Olive Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.1,
+      "count": 833,
+      "reviewCount": 181
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/9/front.jpg",
+      "/images/products/9/back.jpg",
+      "/images/products/9/side.jpg"
+    ],
+    "thumbnail": "/images/products/9/thumbnail.jpg",
+    "stock": 34,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30010,
+    "productCode": 30010,
+    "title": "Urban Edge Graphic Premium Tee 10",
+    "brand": "Urban Edge",
+    "category": "Men Hoodies",
+    "description": "Premium cotton casual wear product #10 with modern styling.",
+    "price": 1999,
+    "discountPrice": 1000,
+    "discountPercent": 50,
+    "currency": "INR",
+    "colors": [
+      "Maroon",
+      "White",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.2,
+      "count": 870,
+      "reviewCount": 190
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/10/front.jpg",
+      "/images/products/10/back.jpg",
+      "/images/products/10/side.jpg"
+    ],
+    "thumbnail": "/images/products/10/thumbnail.jpg",
+    "stock": 35,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30011,
+    "productCode": 30011,
+    "title": "Nirvana Graphic Premium Tee 11",
+    "brand": "Nirvana",
+    "category": "Men Polos",
+    "description": "Premium cotton casual wear product #11 with modern styling.",
+    "price": 2249,
+    "discountPrice": 900,
+    "discountPercent": 60,
+    "currency": "INR",
+    "colors": [
+      "Beige",
+      "Grey",
+      "Navy Blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.3,
+      "count": 907,
+      "reviewCount": 199
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/11/front.jpg",
+      "/images/products/11/back.jpg",
+      "/images/products/11/side.jpg"
+    ],
+    "thumbnail": "/images/products/11/thumbnail.jpg",
+    "stock": 36,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30012,
+    "productCode": 30012,
+    "title": "NovaWear Graphic Premium Tee 12",
+    "brand": "NovaWear",
+    "category": "Men T-Shirts",
+    "description": "Premium cotton casual wear product #12 with modern styling.",
+    "price": 999,
+    "discountPrice": 799,
+    "discountPercent": 20,
+    "currency": "INR",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.4,
+      "count": 944,
+      "reviewCount": 208
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/12/front.jpg",
+      "/images/products/12/back.jpg",
+      "/images/products/12/side.jpg"
+    ],
+    "thumbnail": "/images/products/12/thumbnail.jpg",
+    "stock": 37,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30013,
+    "productCode": 30013,
+    "title": "PeakStyle Graphic Premium Tee 13",
+    "brand": "PeakStyle",
+    "category": "Men Shirts",
+    "description": "Premium cotton casual wear product #13 with modern styling.",
+    "price": 1249,
+    "discountPrice": 937,
+    "discountPercent": 25,
+    "currency": "INR",
+    "colors": [
+      "Navy Blue",
+      "Black",
+      "Olive Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.5,
+      "count": 981,
+      "reviewCount": 217
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/13/front.jpg",
+      "/images/products/13/back.jpg",
+      "/images/products/13/side.jpg"
+    ],
+    "thumbnail": "/images/products/13/thumbnail.jpg",
+    "stock": 38,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30014,
+    "productCode": 30014,
+    "title": "StreetMode Graphic Premium Tee 14",
+    "brand": "StreetMode",
+    "category": "Men Hoodies",
+    "description": "Premium cotton casual wear product #14 with modern styling.",
+    "price": 1499,
+    "discountPrice": 1049,
+    "discountPercent": 30,
+    "currency": "INR",
+    "colors": [
+      "Maroon",
+      "White",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.6,
+      "count": 1018,
+      "reviewCount": 226
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/14/front.jpg",
+      "/images/products/14/back.jpg",
+      "/images/products/14/side.jpg"
+    ],
+    "thumbnail": "/images/products/14/thumbnail.jpg",
+    "stock": 39,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30015,
+    "productCode": 30015,
+    "title": "Urban Edge Graphic Premium Tee 15",
+    "brand": "Urban Edge",
+    "category": "Men Polos",
+    "description": "Premium cotton casual wear product #15 with modern styling.",
+    "price": 1749,
+    "discountPrice": 1049,
+    "discountPercent": 40,
+    "currency": "INR",
+    "colors": [
+      "Beige",
+      "Grey",
+      "Navy Blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.7,
+      "count": 1055,
+      "reviewCount": 235
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/15/front.jpg",
+      "/images/products/15/back.jpg",
+      "/images/products/15/side.jpg"
+    ],
+    "thumbnail": "/images/products/15/thumbnail.jpg",
+    "stock": 40,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30016,
+    "productCode": 30016,
+    "title": "Nirvana Graphic Premium Tee 16",
+    "brand": "Nirvana",
+    "category": "Men T-Shirts",
+    "description": "Premium cotton casual wear product #16 with modern styling.",
+    "price": 1999,
+    "discountPrice": 1000,
+    "discountPercent": 50,
+    "currency": "INR",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.0,
+      "count": 1092,
+      "reviewCount": 244
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/16/front.jpg",
+      "/images/products/16/back.jpg",
+      "/images/products/16/side.jpg"
+    ],
+    "thumbnail": "/images/products/16/thumbnail.jpg",
+    "stock": 41,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30017,
+    "productCode": 30017,
+    "title": "NovaWear Graphic Premium Tee 17",
+    "brand": "NovaWear",
+    "category": "Men Shirts",
+    "description": "Premium cotton casual wear product #17 with modern styling.",
+    "price": 2249,
+    "discountPrice": 900,
+    "discountPercent": 60,
+    "currency": "INR",
+    "colors": [
+      "Navy Blue",
+      "Black",
+      "Olive Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.1,
+      "count": 1129,
+      "reviewCount": 253
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/17/front.jpg",
+      "/images/products/17/back.jpg",
+      "/images/products/17/side.jpg"
+    ],
+    "thumbnail": "/images/products/17/thumbnail.jpg",
+    "stock": 42,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30018,
+    "productCode": 30018,
+    "title": "PeakStyle Graphic Premium Tee 18",
+    "brand": "PeakStyle",
+    "category": "Men Hoodies",
+    "description": "Premium cotton casual wear product #18 with modern styling.",
+    "price": 999,
+    "discountPrice": 799,
+    "discountPercent": 20,
+    "currency": "INR",
+    "colors": [
+      "Maroon",
+      "White",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.2,
+      "count": 1166,
+      "reviewCount": 262
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/18/front.jpg",
+      "/images/products/18/back.jpg",
+      "/images/products/18/side.jpg"
+    ],
+    "thumbnail": "/images/products/18/thumbnail.jpg",
+    "stock": 43,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30019,
+    "productCode": 30019,
+    "title": "StreetMode Graphic Premium Tee 19",
+    "brand": "StreetMode",
+    "category": "Men Polos",
+    "description": "Premium cotton casual wear product #19 with modern styling.",
+    "price": 1249,
+    "discountPrice": 937,
+    "discountPercent": 25,
+    "currency": "INR",
+    "colors": [
+      "Beige",
+      "Grey",
+      "Navy Blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.3,
+      "count": 1203,
+      "reviewCount": 271
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/19/front.jpg",
+      "/images/products/19/back.jpg",
+      "/images/products/19/side.jpg"
+    ],
+    "thumbnail": "/images/products/19/thumbnail.jpg",
+    "stock": 44,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30020,
+    "productCode": 30020,
+    "title": "Urban Edge Graphic Premium Tee 20",
+    "brand": "Urban Edge",
+    "category": "Men T-Shirts",
+    "description": "Premium cotton casual wear product #20 with modern styling.",
+    "price": 1499,
+    "discountPrice": 1049,
+    "discountPercent": 30,
+    "currency": "INR",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.4,
+      "count": 1240,
+      "reviewCount": 280
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/20/front.jpg",
+      "/images/products/20/back.jpg",
+      "/images/products/20/side.jpg"
+    ],
+    "thumbnail": "/images/products/20/thumbnail.jpg",
+    "stock": 45,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30021,
+    "productCode": 30021,
+    "title": "Nirvana Graphic Premium Tee 21",
+    "brand": "Nirvana",
+    "category": "Men Shirts",
+    "description": "Premium cotton casual wear product #21 with modern styling.",
+    "price": 1749,
+    "discountPrice": 1049,
+    "discountPercent": 40,
+    "currency": "INR",
+    "colors": [
+      "Navy Blue",
+      "Black",
+      "Olive Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.5,
+      "count": 1277,
+      "reviewCount": 289
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/21/front.jpg",
+      "/images/products/21/back.jpg",
+      "/images/products/21/side.jpg"
+    ],
+    "thumbnail": "/images/products/21/thumbnail.jpg",
+    "stock": 46,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30022,
+    "productCode": 30022,
+    "title": "NovaWear Graphic Premium Tee 22",
+    "brand": "NovaWear",
+    "category": "Men Hoodies",
+    "description": "Premium cotton casual wear product #22 with modern styling.",
+    "price": 1999,
+    "discountPrice": 1000,
+    "discountPercent": 50,
+    "currency": "INR",
+    "colors": [
+      "Maroon",
+      "White",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.6,
+      "count": 1314,
+      "reviewCount": 298
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/22/front.jpg",
+      "/images/products/22/back.jpg",
+      "/images/products/22/side.jpg"
+    ],
+    "thumbnail": "/images/products/22/thumbnail.jpg",
+    "stock": 47,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30023,
+    "productCode": 30023,
+    "title": "PeakStyle Graphic Premium Tee 23",
+    "brand": "PeakStyle",
+    "category": "Men Polos",
+    "description": "Premium cotton casual wear product #23 with modern styling.",
+    "price": 2249,
+    "discountPrice": 900,
+    "discountPercent": 60,
+    "currency": "INR",
+    "colors": [
+      "Beige",
+      "Grey",
+      "Navy Blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.7,
+      "count": 1351,
+      "reviewCount": 307
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/23/front.jpg",
+      "/images/products/23/back.jpg",
+      "/images/products/23/side.jpg"
+    ],
+    "thumbnail": "/images/products/23/thumbnail.jpg",
+    "stock": 48,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30024,
+    "productCode": 30024,
+    "title": "StreetMode Graphic Premium Tee 24",
+    "brand": "StreetMode",
+    "category": "Men T-Shirts",
+    "description": "Premium cotton casual wear product #24 with modern styling.",
+    "price": 999,
+    "discountPrice": 799,
+    "discountPercent": 20,
+    "currency": "INR",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.0,
+      "count": 1388,
+      "reviewCount": 316
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/24/front.jpg",
+      "/images/products/24/back.jpg",
+      "/images/products/24/side.jpg"
+    ],
+    "thumbnail": "/images/products/24/thumbnail.jpg",
+    "stock": 49,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30025,
+    "productCode": 30025,
+    "title": "Urban Edge Graphic Premium Tee 25",
+    "brand": "Urban Edge",
+    "category": "Men Shirts",
+    "description": "Premium cotton casual wear product #25 with modern styling.",
+    "price": 1249,
+    "discountPrice": 937,
+    "discountPercent": 25,
+    "currency": "INR",
+    "colors": [
+      "Navy Blue",
+      "Black",
+      "Olive Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.1,
+      "count": 1425,
+      "reviewCount": 325
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/25/front.jpg",
+      "/images/products/25/back.jpg",
+      "/images/products/25/side.jpg"
+    ],
+    "thumbnail": "/images/products/25/thumbnail.jpg",
+    "stock": 50,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30026,
+    "productCode": 30026,
+    "title": "Nirvana Graphic Premium Tee 26",
+    "brand": "Nirvana",
+    "category": "Men Hoodies",
+    "description": "Premium cotton casual wear product #26 with modern styling.",
+    "price": 1499,
+    "discountPrice": 1049,
+    "discountPercent": 30,
+    "currency": "INR",
+    "colors": [
+      "Maroon",
+      "White",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.2,
+      "count": 1462,
+      "reviewCount": 334
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/26/front.jpg",
+      "/images/products/26/back.jpg",
+      "/images/products/26/side.jpg"
+    ],
+    "thumbnail": "/images/products/26/thumbnail.jpg",
+    "stock": 51,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30027,
+    "productCode": 30027,
+    "title": "NovaWear Graphic Premium Tee 27",
+    "brand": "NovaWear",
+    "category": "Men Polos",
+    "description": "Premium cotton casual wear product #27 with modern styling.",
+    "price": 1749,
+    "discountPrice": 1049,
+    "discountPercent": 40,
+    "currency": "INR",
+    "colors": [
+      "Beige",
+      "Grey",
+      "Navy Blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.3,
+      "count": 1499,
+      "reviewCount": 343
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/27/front.jpg",
+      "/images/products/27/back.jpg",
+      "/images/products/27/side.jpg"
+    ],
+    "thumbnail": "/images/products/27/thumbnail.jpg",
+    "stock": 52,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30028,
+    "productCode": 30028,
+    "title": "PeakStyle Graphic Premium Tee 28",
+    "brand": "PeakStyle",
+    "category": "Men T-Shirts",
+    "description": "Premium cotton casual wear product #28 with modern styling.",
+    "price": 1999,
+    "discountPrice": 1000,
+    "discountPercent": 50,
+    "currency": "INR",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.4,
+      "count": 1536,
+      "reviewCount": 352
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/28/front.jpg",
+      "/images/products/28/back.jpg",
+      "/images/products/28/side.jpg"
+    ],
+    "thumbnail": "/images/products/28/thumbnail.jpg",
+    "stock": 53,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30029,
+    "productCode": 30029,
+    "title": "StreetMode Graphic Premium Tee 29",
+    "brand": "StreetMode",
+    "category": "Men Shirts",
+    "description": "Premium cotton casual wear product #29 with modern styling.",
+    "price": 2249,
+    "discountPrice": 900,
+    "discountPercent": 60,
+    "currency": "INR",
+    "colors": [
+      "Navy Blue",
+      "Black",
+      "Olive Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Oversized",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Graphic Print",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.5,
+      "count": 1573,
+      "reviewCount": 361
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/29/front.jpg",
+      "/images/products/29/back.jpg",
+      "/images/products/29/side.jpg"
+    ],
+    "thumbnail": "/images/products/29/thumbnail.jpg",
+    "stock": 54,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  },
+  {
+    "id": 30030,
+    "productCode": 30030,
+    "title": "Urban Edge Graphic Premium Tee 30",
+    "brand": "Urban Edge",
+    "category": "Men Hoodies",
+    "description": "Premium cotton casual wear product #30 with modern styling.",
+    "price": 999,
+    "discountPrice": 799,
+    "discountPercent": 20,
+    "currency": "INR",
+    "colors": [
+      "Maroon",
+      "White",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "fit": "Regular",
+    "length": "Regular",
+    "neck": "Round Neck",
+    "sleeves": "Short Sleeves",
+    "pattern": "Solid",
+    "fabric": "100% Cotton",
+    "materialCare": [
+      "Machine Wash",
+      "Do not bleach"
+    ],
+    "rating": {
+      "average": 4.6,
+      "count": 1610,
+      "reviewCount": 370
+    },
+    "seller": "Fashion Hub Pvt. Ltd.",
+    "manufacturer": {
+      "name": "Fashion Hub Pvt. Ltd.",
+      "countryOfOrigin": "India"
+    },
+    "offers": [
+      "10% Instant Bank Discount",
+      "EMI Available"
+    ],
+    "images": [
+      "/images/products/30/front.jpg",
+      "/images/products/30/back.jpg",
+      "/images/products/30/side.jpg"
+    ],
+    "thumbnail": "/images/products/30/thumbnail.jpg",
+    "stock": 55,
+    "availability": "In Stock",
+    "tags": [
+      "casual",
+      "cotton",
+      "men",
+      "fashion"
+    ]
+  }
+]

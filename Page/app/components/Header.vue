@@ -26,9 +26,10 @@ const cartCount = ref(3);
   <header
     class="border-b border-gray-200 bg-white shadow-md shadow-gray-200 z-40 sticky top-0"
   >
-    <div
-      class="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between gap-4"
-    >
+    <UContainer class="h-16 flex items-center justify-between gap-4">
+      <!-- <div
+        class="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between gap-4"
+      > -->
       <!-- Left: Logo + Nav -->
       <div class="flex items-center justify-center gap-6">
         <!-- Logo -->
@@ -125,6 +126,7 @@ const cartCount = ref(3);
           aria-label="Menu"
         />
       </div>
-    </div>
+      <!-- </div> -->
+    </UContainer>
   </header>
 </template>
